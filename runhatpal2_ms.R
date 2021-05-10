@@ -25,7 +25,7 @@ out_dir3 <- "tmp/tmp3"
 
 fasta_file <- "data/hg19_chr1_chr2.fa"
 
-gtf_file <- "../homemadepeak/anno/anno_hg19/Homo_sapiens.GRCh37.87.chr.gtf"
+gtf_file <- "anno_hg19/Homo_sapiens.GRCh37.87.chr.gtf"
 
 
 #########################################
