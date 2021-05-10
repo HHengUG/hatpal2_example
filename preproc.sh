@@ -1,7 +1,10 @@
 #!/bin/bash
-echo $1
+echo $1 
+# input BAM
 echo $2
+# output directory
 echo $3
+# project name
 
 filtered=$2$3"_F.bam"
 sorted=$2$3"_S.bam"
