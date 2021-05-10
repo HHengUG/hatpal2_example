@@ -20,7 +20,7 @@ in_bamfile <- "data/pbmc_F256_c1c2.bam"
 in_nSBfile <- "data/pbmc_F256_c1c2.bam"
 out_dir <- "tmp/"
 fasta_file <- "data/hg19_chr1_chr2.fa"
-gtf_file <- "../homemadepeak/anno/anno_hg19/Homo_sapiens.GRCh37.87.chr.gtf"
+gtf_file <- "anno_hg19/Homo_sapiens.GRCh37.87.chr.gtf"
 
 
 #########################################
